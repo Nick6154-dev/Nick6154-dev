@@ -18,8 +18,7 @@ I'm passionate about basketball and video games 🎮🏀. Currently, I'm studyin
 - ⚡ I'm always up for a game of basketball or exploring the latest video games!
 
 ### How to Reach Me
-- 📫 You can contact me via [email](mailto:your-email@example.com) or through my [LinkedIn profile](https://www.linkedin.com/in/your-profile).
-- 😄 Pronouns: He/Him
+- 📫 You can contact me via [email](mailto:pbalsecamh5b@outlook.com) or through my [LinkedIn profile](https://www.linkedin.com/in/pablo-balseca-montufar-6248a1109/).
 
 Feel free to explore my repositories and reach out if you're interested in collaborating!
 
