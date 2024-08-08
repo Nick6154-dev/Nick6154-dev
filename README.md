@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Nick6154-dev/Nick6154-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about basketball and video games 🎮🏀. Currently, I'm studying at the Universidad Central del Ecuador, where I'm expanding my knowledge and skills in software development.
 
-Here are some ideas to get you started:
+### About Me
+- 🔭 I’m currently working on projects involving microservices and cloud-native applications.
+- 🌱 I’m currently learning advanced Kubernetes orchestration and exploring more about cloud technologies.
+- 👯 I’m looking to collaborate on open-source projects related to web development and microservices.
+- 🤔 I’m looking for help with advanced data structures and algorithms.
+- 💬 Ask me about Java, Python, JavaScript, and Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies & Tools
+- **Programming Languages:** Java, Python, JavaScript, Go
+- **Frameworks:** Spring WebFlux, FastAPI, Nuxt
+- **DevOps Tools:** Docker, Kubernetes, GitHub
+
+### Fun Fact
+- ⚡ I'm always up for a game of basketball or exploring the latest video games!
+
+### How to Reach Me
+- 📫 You can contact me via [email](mailto:your-email@example.com) or through my [LinkedIn profile](https://www.linkedin.com/in/your-profile).
+- 😄 Pronouns: He/Him
+
+Feel free to explore my repositories and reach out if you're interested in collaborating!
+
